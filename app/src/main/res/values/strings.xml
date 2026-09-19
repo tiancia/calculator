@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">计算器</string>
+    <string name="live_hint">输入即计算</string>
+    <string name="expression_description">计算表达式</string>
+    <string name="result_description">计算结果：%1$s</string>
+    <string name="incomplete">请完成表达式</string>
+    <string name="divide_by_zero">不能除以零</string>
+    <string name="invalid_expression">表达式有误</string>
+    <string name="too_long">最多输入 120 个字符</string>
+    <string name="clear_description">清空</string>
+    <string name="delete_description">删除最后一位，长按清空</string>
+    <string name="percent_description">百分比，当前数除以一百</string>
+    <string name="sign_description">切换当前数的正负号</string>
+    <string name="equals_description">确认计算结果</string>
+</resources>
